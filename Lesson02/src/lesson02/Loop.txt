@@ -1,0 +1,21 @@
+Cấu trúc lặp:
+*for
+for(init ; expression_condition; step){
+    statement block;
+}
+==> 4 dạng for
+
+* while
+while(expression_condition){
+     statement block; // expression_condition==true
+}
+* do...while
+do{
+    statement block;
+}while(expression_condition);
+
+* For each
+for(type var: collection){
+    statement block;
+}
+    

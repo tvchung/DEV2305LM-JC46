@@ -1,0 +1,29 @@
+Java - backend
+1. Java Core (OOP) - DRIVER
+2. SQL Server / MySQL
+3. Java SpringBoot
+4. Mock Project
+	+ Frontend (Reactjs)
+	+ TK/Cài đặt CSDL
+	+ Java SpringBoot
+-----------------------------
+
+1. JavaCore: (10b) + Examination
+- Khái niệm về ngôn ngữ lập trình (java)
+- OOP:
+	+ Inheristance
+	+ Polymorphsm
+	+ Abstraction
+	+ Encapsolation
+- Các tiện ích nâng cao:
+	+ Generic collection
+	+ Ngoại lệ
+	+ Thread
+	+ File
+-------- Học liệu hỗ trợ: share driver
+		1. Slides -> đọc trước mỗi buổi học
+		2. Labguides -> thực hành đầy đủ
+		3. Books
+
+		4. Tham khảo
+			
