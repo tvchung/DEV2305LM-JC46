@@ -1,0 +1,22 @@
+Bài tập:
+- Tạo lớp Employee  (Employee.java)
+	+ Field:
+		empId
+		empName
+		empAge
+		empSalary
+	+ Constructor (không có tham số, có tham số)
+	+ Method:
+		-> input: Nhập thông tin nhân viên (Employee)
+		-> output: Xuất thông tin nhân viên  (Employee)
+- Tạo lớp EmployeeManager (EmployeeManager.java)
+	+ main:
+		-> Khởi tạo mảng nhân viên gồm n nhân viên 
+			Employee[] list = new Employee[n];
+		-> Nhập dữ liệu cho mảng list 
+			list[i] = new Employee();
+			
+		-> Hiển thị danh sách nhân viên trong mảng list 
+		-> Tìm kiếm nhân viên có lương cao nhất
+		-> Sắp xếp nhân viên theo tuổi giảm dần
+========Áp dụng cho bài tự thực hành (lab - Bánh mỳ)
