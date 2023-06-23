@@ -1,0 +1,15 @@
+
+1. Tạo lớp đối tượng Employee(empId, name, salary)
+2. Tạo lớp quản lý thông tin nhân viên (Employee)
+    - Tổ chức danh sách nhân viên trong List 
+    - Tạo menu chức năng:
+       1. Nhập thông tin nhân viên
+       2. Hiển thị đanh sách
+       3. Tìm kiếm thông tin theo tên nhân viên (tương đối)
+       4. Xóa Nhân viên theo mã nhân viên
+       5. Sắp xếp:
+            a. Sắp xếp nhân viên theo lương tăng dần
+            b. Sắp xếp nhân viên theo lương giảm dần
+       6. Thoát
+       Chọn chức năng:
+            <<Thực hiện các chức năng tương ứng trong menu>>
